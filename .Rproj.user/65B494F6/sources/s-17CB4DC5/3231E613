@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528071458710.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3231E613",
+    "lastKnownWriteTime" : 1528072398,
+    "last_content_update" : 1528072398930,
+    "path" : "~/Dropbox/as.color/R/as.color.R",
+    "project_path" : "R/as.color.R",
+    "properties" : {
+        "cursorPosition" : "28,0",
+        "scrollLine" : "15"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
