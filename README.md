@@ -1,3 +1,6 @@
+[![](https://cranlogs.r-pkg.org/badges/as.color)](https://cranlogs.r-pkg.org/badges/as.color)
+
+
 as.color
 =======
 
