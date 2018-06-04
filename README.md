@@ -1,7 +1,12 @@
 as.color
 =======
 
-Really simple function that does what it sounds like. Here is a good example:
+This package is currently available on CRAN, but important updates are under review. Until 0.3 is posted to CRAN, please install using:
+
+    devtools::install_github("silastittes/as.color")
+
+Working example
+---------------
     
     library(as.color)
     #simple data frame with factorsset.seed(12345) #make results reproducible
