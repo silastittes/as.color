@@ -4,7 +4,7 @@
 as.color
 =======
 
-This package is currently available on CRAN, but important updates are under review. Until 0.3 is posted to CRAN, please install using:
+This package is under review. Until posted to CRAN, please install using:
 
     devtools::install_github("silastittes/as.color")
 
